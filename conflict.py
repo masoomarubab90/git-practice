@@ -1,1 +1,1 @@
-print(hello from master branch)
+print('Hello from Conflict Branch')
